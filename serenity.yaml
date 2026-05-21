@@ -1,0 +1,7 @@
+chart: ./
+name: serenity-demo
+staging:
+  autoMerge: true
+  clusters:
+  - name: us-east
+  - name: eu-west
